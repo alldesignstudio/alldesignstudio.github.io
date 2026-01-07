@@ -7,8 +7,6 @@ body {
     font-family: Arial, sans-serif;
     background-color:#f7f7f7;
     color: #222;
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap" rel="stylesheet">
-            <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     
 }
 
@@ -31,7 +29,7 @@ nav a:hover {
 }
 
 .hero {
-    width: 100%
+width: 100%
 background-image: url(all design studio.jpg);
 background-size: cover;
 background-position: center;
@@ -57,6 +55,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
