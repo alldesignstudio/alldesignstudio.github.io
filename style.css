@@ -30,13 +30,11 @@ nav a:hover {
 
 .hero {
 width: 100%;
-background-image: url('all design studio background.jpg');
+height: 375px;
+background-image: url('background.jpg');
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
-
-min-height: 200px;
-height: auto;
 }
 
 .services {
@@ -55,6 +53,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
