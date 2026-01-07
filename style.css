@@ -15,6 +15,7 @@ body {
 header {
     background-color: #2c0f5e
     padding: 40px 40px;
+    padding: 40px 40px;
     display: flex;
     align-items: center;
 }
@@ -51,6 +52,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
