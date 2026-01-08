@@ -40,6 +40,19 @@ height: auto;
 display: block;
 margin: 0 auto;
 }
+
+.intro {
+    width: 100%;
+    background-color: #5c1d5b;
+    padding: 80px 40px;
+    text-align: center;
+    }
+
+.intro p {
+    font-family:'Newsreader', serif;
+    font-size: 24px;
+    margin: 0;
+}
 .services {
     padding: 60px 40px;
 }
@@ -56,6 +69,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
