@@ -31,14 +31,26 @@ nav a:hover {
 .hero {
 width: 100%;
 background-color: #9f3b9d;
-padding: 0;
+position: relative;
+overflow: hidden;
 }
-.hero-img {
-width: auto;
+.hero-bg {
 max-width: 1510px;
+width: 100%;
 height: auto;
 display: block;
 margin: 0 auto;
+}
+
+.hero-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
 }
 
 .intro {
@@ -70,6 +82,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
