@@ -51,6 +51,7 @@ margin: 0 auto;
 .intro p {
     font-family:'Newsreader', serif;
     font-size: 24px;
+    color: white;
     margin: 0;
 }
 .services {
@@ -69,6 +70,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
