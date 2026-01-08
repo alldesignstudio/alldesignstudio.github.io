@@ -96,7 +96,7 @@ margin: 0 auto;
 
 .split-right {
     flex:1;
-    padding: 70px;
+    padding: 50px;
     display: flex;
     align-items: center;
 }
@@ -125,6 +125,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
