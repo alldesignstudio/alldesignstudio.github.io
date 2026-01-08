@@ -15,26 +15,12 @@
                 <a href="contact.html">Contact</a>
             </nav>
 
-            <video id="header-video" class="header-video" autoplay muted>
+            <video id="header-video" class="header-video" autoplay muted loop playsinline>
                 <source src="minipengu.mp4" type="video/mp4">
             </video>
 
         </header>
 
-        <script>
-            const video = document.getElementById('header-video');
-            let forward = true;
-
-            video.addEventListener('ended', () ⟹ {
-                forward = !forward;
-                video.currentTime = forward ? video.duration;
-                video.playbackRate = forward ? 1 : -1;
-                video.play();
-            });
-
-            video.play();
-
-        </script>
 
         <section class="hero">
             <img src="logo2.jpg" alt="Hero background" class="hero-bg">
@@ -64,6 +50,7 @@
         </footer>
     </body>
 </html>
+
 
 
 
