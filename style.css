@@ -82,6 +82,33 @@ margin: 0 auto;
     color: white;
     margin: 0;
 }
+
+.split-section {
+    display: flex;
+    width: 100%;
+    min-height: 1000px;
+}
+
+.split-left {
+    flex: 1;
+    background-color: white;
+}
+
+.split-right {
+    flex:1;
+    padding: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.split-title {
+    font-family: 'Newsreader', serif;
+    font-size: 70px;
+    line-height: 1.1;
+    margin: 0;
+}
+
+
 .services {
     padding: 60px 40px;
 }
@@ -98,6 +125,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
