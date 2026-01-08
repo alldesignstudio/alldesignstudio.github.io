@@ -44,7 +44,7 @@ margin: 0 auto;
 .intro {
     width: 100%;
     background-color: #5c1d5b;
-    padding: 80px 40px;
+    padding: 30px 30px;
     text-align: center;
     }
 
@@ -69,6 +69,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
