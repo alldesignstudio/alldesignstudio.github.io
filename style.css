@@ -35,7 +35,7 @@ nav a:hover {
 
 .header-video {
     position: absolute;
-    bottom: 0;
+    bottom: 5px;
     left: 50%;
     transform: translatex(-50%);
     width: 100px;
@@ -98,6 +98,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
