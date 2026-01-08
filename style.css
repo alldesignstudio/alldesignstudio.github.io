@@ -96,14 +96,14 @@ margin: 0 auto;
 
 .split-right {
     flex:1;
-    padding: 80px;
+    padding: 70px;
     display: flex;
     align-items: center;
 }
 
 .split-title {
     font-family: 'Newsreader', serif;
-    font-size: 70px;
+    font-size: 64px;
     line-height: 1.1;
     margin: 0;
 }
@@ -125,6 +125,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
