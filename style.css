@@ -29,9 +29,8 @@ nav a:hover {
 }
 
 .hero {
-width: 100%;
-height: auto;
-min-height: 500px;
+width: 1240px;
+height: 400px;
 background-image: url('logo2.jpg');
 background-size: contain;
 background-position: center;
@@ -54,6 +53,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
