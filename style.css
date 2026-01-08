@@ -33,7 +33,7 @@ width: 100%;
 }
 .hero-img {
 width: auto;
-max-width: 1550px;
+max-width: 1520px;
 height: auto;
 display: block;
 margin: 0 auto;
@@ -55,6 +55,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
