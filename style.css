@@ -99,9 +99,9 @@ margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    padding-top: 70px;
+    padding-top: 90px;
     padding-left: 20px;
-    padding-right: 40px;
+    padding-right: 60px;
     text-align: left;
     
 
@@ -131,6 +131,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
