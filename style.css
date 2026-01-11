@@ -91,7 +91,16 @@ margin: 0 auto;
 
 .split-left {
     flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
     background-color: white;
+}
+
+.split-img {
+    height: 600px;
+    width: auto;
+    display: block;
 }
 
 .split-right {
@@ -131,6 +140,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
