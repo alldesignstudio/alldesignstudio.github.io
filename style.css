@@ -118,7 +118,7 @@ margin: 0 auto;
 }
 
 .split-title {
-    font-family: 'Newsreader', serif;
+    font-family: 'Outfit', sans-serif;
     font-size: 50px;
     line-height: 1.1;
     margin: 0;
@@ -141,6 +141,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
