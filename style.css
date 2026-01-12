@@ -127,7 +127,7 @@ margin: 0 auto;
 
 .section-text {
     font-family: 'Outfit', sans-serif;
-    font-size: 16px;
+    font-size: 22px;
     line-height: 1.6;
     margin-top: 0px;
     margin-bottom: 16px;
@@ -150,6 +150,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
