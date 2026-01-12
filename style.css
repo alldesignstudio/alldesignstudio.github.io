@@ -122,16 +122,16 @@ margin: 0 auto;
     font-size: 50px;
     line-height: 1.1;
     margin: 0;
-    margin-bottom: 70px;
+    margin-bottom: 60px;
 }
 
 .section-text {
     font-family: 'Outfit', sans-serif;
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.6;
     margin-top: 0px;
     margin-bottom: 16px;
-    max-width: 520px;
+    max-width: 530px;
 }
 
 .services {
@@ -150,6 +150,7 @@ a {
 button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
+
 
 
 
